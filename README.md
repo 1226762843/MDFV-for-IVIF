@@ -1,4 +1,4 @@
-# Fraction-order-variation-with-conv-norm-for-IVIF
+# MDFV-for-IVIF
 
 Code of 《Infrared and Visible Image Fusion via Multi-directional Fractional-order Variation》
 
